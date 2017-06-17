@@ -1,2 +1,2 @@
 # scssgo
-some useful scss snippets
+some useful  snippets
