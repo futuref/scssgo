@@ -1,2 +1,2 @@
-# scssgo
+# SNIPPETS
 some useful  snippets
